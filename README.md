@@ -4,7 +4,7 @@ This is one of the required projects to earn your certification.
 
 For this project, you'll build an application that checks whether a given word is a palindrome.
 
-### Verify this certification at: https://www.freecodecamp.org/certification/Johncent-Developer/responsive-web-design
+### Verify this certification at: https://www.freecodecamp.org/certification/Johncent-Developer/javascript-algorithms-and-data-structures
 
 # Lessons Learned
 * Removing all non-alphanumeric characters (punctuation, spaces and symbols) using String functions and Regex.
